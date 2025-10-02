@@ -1,22 +1,22 @@
 // Step 1
 
-var firstName: String = "Miras"
-var lastName: String = "Nuraliyev"
-var birthYear: Int = 2003
+var firstName: String = "Arsen"
+var lastName: String = "Akhmetolla"
+var birthYear: Int = 2006
 let currentYear: Int = 2025
 var age: Int = currentYear - birthYear
 var isStudent: Bool = true
-var height: Double = 1.80
+var height: Double = 1.98
 var country: String = "Kazakhstan"
 var city: String = "Aktobe"
 
 // Step 2
 
-var hobby: String = "Volleyball"
+var hobby: String = "Taekwondo"
 var numberOfHobbies: Int = 2
-var favoriteNumber: Int = 4
+var favoriteNumber: Int = 8
 var isHobbyCreative: Bool = true
-var otherHobby: String = "CS:GO"
+var otherHobby: String = "CS2"
 
 // Step 3
 
@@ -29,7 +29,7 @@ I have \(numberOfHobbies) hobbies in total, and my favourite number is \(favorit
 
 // bonus
 
-var futureGoals: String = "My future goal is to get back my scholarship"
+var futureGoals: String = "My future goal is to buy BMW"
 
 lifeStory.append("\n")
 lifeStory.append(futureGoals)
